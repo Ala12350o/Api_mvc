@@ -8,7 +8,7 @@
     "dependencies": {
         "express": "4.18.2",
         "mysql2": "3.4.0",
-        "sequelize": "6.37.12",
+        "sequelize": "6.37.1",
         "dotenv": "16.5.0"
     },
     "devDependencies": {
